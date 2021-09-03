@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. I enjoy football games
+2. Coffee 
+3. If its not on Stack Overflow good luck.
